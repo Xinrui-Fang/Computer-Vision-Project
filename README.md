@@ -7,3 +7,10 @@ Replace a picture in a magazine or a book with a different image or video.
 1. Replace the original image with an “advertising” insert, warping the new image with the appropriate homography.
 1. Try your approach on a clip from a sporting event (e.g., indoor or outdoor soccer) to implement a billboard replacement.
 
+### File Structure
+```
+        [Layer 1]
+        |---- 2D Match Move.ipynb
+        |---- TargetImage.jpg
+        |---- video.mp4
+```
