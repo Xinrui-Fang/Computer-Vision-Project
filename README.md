@@ -14,3 +14,6 @@ Replace a picture in a magazine or a book with a different image or video.
         |---- TargetImage.jpg
         |---- video.mp4
 ```
+
+### Demo
+<img src="https://github.com/Xinrui-Fang/Computer-Vision-Project/blob/master/img/GIF.gif" width = "500"  alt="" align=center /><br/>
